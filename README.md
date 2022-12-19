@@ -3,8 +3,8 @@
 
 this is **Matias Godoy**
 
-I'm a passionate **software developer** studying **Computer Science & Engineering** at [**Blas Pascal University**](https://www.ubp.edu.ar/carreras/informatica/) working as a **Business Application Developer** at **Bitsion**.
-I love technology and breaking stuff in order to know how it works, i like helping and spreading knowledgement to people who are interested in learn.
+I'm a passionate **software developer** studying **Computer Science & Engineering** at [**Blas Pascal University**](https://www.ubp.edu.ar/carreras/informatica/) working as a **Full Stack Developer** at **Bitsion**.
+I love technology and breaking stuff in order to understand how it works, i like helping and spreading knowledgement to people who are interested in learn.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/matigodoy)
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://www.linkedin.com/in/matigodoy/)
